@@ -1,1 +1,1 @@
-# wangari.github.io
+# personal_profile.github.io
